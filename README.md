@@ -1,3 +1,4 @@
 # hadoopcon2016-training
 
-Lecturer: George Lai
+This repository is mainly used for Apache Flink Tutorial in HadoopCon 2016, Taiwan.
+
