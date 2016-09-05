@@ -1,6 +1,7 @@
 # Apache Flink™ Training Workshop @ HadoopCon2016
 
 This is the training material for the Apache Flink workshop at HadoopCon2016.
+
 Please download the project and import it to your IDE before attending.
 You can follow the below instructions to do so, using IntelliJ IDEA as an example.
 
