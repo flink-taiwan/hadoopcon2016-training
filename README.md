@@ -31,6 +31,11 @@ The import might take a while as it needs to download all the required dependenc
 
 Congratulations! You are all set ;)
 
+## FAQ
+
+- **Can't find SBT option when importing from external model:** you will need to first install the Scala plugin for IntelliJ IDEA. For more info, see [here](https://www.jetbrains.com/help/idea/2016.2/enabling-and-disabling-plugins.html).
+- **No project SDK to choose from when importing:** please first install a Java JDK with version 1.7+.
+
 # Disclaimer
 
 Apache®, Apache Flink™, Flink™, and the Apache feather logo are trademarks of [The Apache Software Foundation](http://apache.org/).
